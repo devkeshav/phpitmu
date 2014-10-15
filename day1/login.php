@@ -1,6 +1,6 @@
 <html>
 <head>
-	<title>Contact Us</title>
+	<title>Login</title>
 	<link href="css/style.css" rel="stylesheet" type="text/css"/>
 </head>
 <style type="text/css">
